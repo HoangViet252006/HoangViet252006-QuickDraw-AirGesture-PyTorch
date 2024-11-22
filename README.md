@@ -11,7 +11,7 @@ Here is my python source code for QuickDraw - an online game developed by google
 In order to use this app, You have to point your index finger up and curl your middle finger down. If both your middle finger and index finger are pointing up, then programme will stop drawing.
 The model will predict every 10 frames. If the model is certain about its prediction, the result will be shown on the screen, pausing your drawing until the result is removed.
 When you want to stop programe, press **q**.
-Below is the demo by running the sript **camera_app.py**:
+Below is the demo by running the sript **main.py**:
 <p align="center">
   <img src="demo/Camera_app_demo.gif" width=600><br/>
   <i>Camera app demo</i>
